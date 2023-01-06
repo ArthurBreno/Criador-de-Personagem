@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">treinoLayout</string>
+    <string name="titulo">Caracteristicas do personagem</string>
+    <string name="escolhaAraca">Raça</string>
+    <string name="elfo">Elfo</string>
+    <string name="orc">Orc</string>
+    <string name="humano">Humano</string>
+    <string name="Anao">Anão</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso: </string>
+    <string name="dicaAltura">1.55</string>
+    <string name="caracteristicas">Marcas</string>
+    <string name="dicapeso">100</string>
+    <string name="kg">kg</string>
+    <string name="cicatriz">Cicatriz</string>
+    <string name="tatuagem">Tatuagem</string>
+    <string name="olho_de_nvidro">Olho de\nvidro</string>
+    <string name="perna_de_pau">Perna de\npau</string>
+    <string name="nome">Nome</string>
+    <string name="gerar_descri_o">Gerar descrição</string>
+    <string name="anatalio_cacador_de_lagartixas">Anatalio Caçador de lagartixas</string>
+    <string name="vizualizar_persoanegns">Vizualizar personagem</string>
+    <string name="forca">FORÇA</string>
+    <string name="inteligencia">INTELIGÊNCIA</string>
+    <string name="ocultismo">OCULTISMO</string>
+    <string name="destresa">DESTREZA</string>
+    <string name="criar_personagem">Criar personagem</string>
+</resources>
